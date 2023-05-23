@@ -1,6 +1,6 @@
 # Bunovel
 Bunovel is a connection of 2 words: Bun and Novel. Bunovel is a Visual Novel engine written in bun for creating visual novel games with ease and fun.
-# Guidlines
+# Guidelines
 Because this engine doesn't provide own language, you code in js/ts and thus you <ins>must</ins> follow them <br>
 
 1. Only one `Engine` instance per scene! Others won't work
